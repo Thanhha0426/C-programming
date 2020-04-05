@@ -1,0 +1,2 @@
+﻿So sánh thời gian thực hiện sắp xếp MergeSort, Quick Sort, HeapSort
+trên các dãy 100000,1000000,5000000 phần tử
